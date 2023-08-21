@@ -8,6 +8,8 @@ total
 type(x)
 type(10.5)
 
+print("haha")
+
 ##########################################################################
 # (C) Copyright 2019 by Deitel & Associates, Inc. and                    #
 # Pearson Education, Inc. All Rights Reserved.                           #

@@ -1,8 +1,7 @@
 # fig02_01.py
 """Compare integers using if statements and comparison operators."""
 
-print('Enter two integers and I will tell you', 
-      'the relationships they satisfy.')
+print('Enter two integers and I will tell you', 'the relationships they satisfy.')
 
 # read first integer
 number1 = int(input('Enter first integer: '))
